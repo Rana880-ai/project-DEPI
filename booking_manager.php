@@ -625,7 +625,7 @@ try {
             <h1>SmartPark</h1>
         </div>
         <ul class="nav-links">
-            <li><a href="manager_dashboard.php"><i class="fas fa-home"></i> <span class="nav-text">Dashboard</span></a></li>
+            <li><a href="dashboard-manager.php"><i class="fas fa-home"></i> <span class="nav-text">Dashboard</span></a></li>
             <li><a href="parking_maps_manager.php"><i class="fas fa-map-marked-alt"></i> <span class="nav-text">Parking Maps</span></a></li>
             <li><a href="booking_manager.php" class="active"><i class="fas fa-calendar-check"></i> <span class="nav-text">Parking Management</span></a></li>
             <li><a href="users_manager.php"><i class="fas fa-users"></i> <span class="nav-text">Users</span></a></li>

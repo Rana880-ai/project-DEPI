@@ -755,7 +755,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
         
         <ul class="nav-links">
-            <li><a href="user.php"><i class="fas fa-home"></i> <span class="nav-text">Dashboard</span></a></li>
+            <li><a href="dashboard-user.php"><i class="fas fa-home"></i> <span class="nav-text">Dashboard</span></a></li>
             <li>
                 <a href="parking_map_user.php">
                     <i class="fas fa-map-marked-alt"></i> 
